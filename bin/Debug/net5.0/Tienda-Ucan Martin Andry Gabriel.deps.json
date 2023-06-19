@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Tienda-Ucan Martin Andry Gabriel/1.0.0": {
+        "runtime": {
+          "Tienda-Ucan Martin Andry Gabriel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tienda-Ucan Martin Andry Gabriel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

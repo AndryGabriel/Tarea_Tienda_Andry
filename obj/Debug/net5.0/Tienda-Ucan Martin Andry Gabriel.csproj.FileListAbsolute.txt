@@ -1,0 +1,16 @@
+C:\Users\UPQROO\source\repos\Tienda-Ucan Martin Andry Gabriel\Tienda-Ucan Martin Andry Gabriel\bin\Debug\net5.0\Tienda-Ucan Martin Andry Gabriel.exe
+C:\Users\UPQROO\source\repos\Tienda-Ucan Martin Andry Gabriel\Tienda-Ucan Martin Andry Gabriel\bin\Debug\net5.0\Tienda-Ucan Martin Andry Gabriel.deps.json
+C:\Users\UPQROO\source\repos\Tienda-Ucan Martin Andry Gabriel\Tienda-Ucan Martin Andry Gabriel\bin\Debug\net5.0\Tienda-Ucan Martin Andry Gabriel.runtimeconfig.json
+C:\Users\UPQROO\source\repos\Tienda-Ucan Martin Andry Gabriel\Tienda-Ucan Martin Andry Gabriel\bin\Debug\net5.0\Tienda-Ucan Martin Andry Gabriel.runtimeconfig.dev.json
+C:\Users\UPQROO\source\repos\Tienda-Ucan Martin Andry Gabriel\Tienda-Ucan Martin Andry Gabriel\bin\Debug\net5.0\Tienda-Ucan Martin Andry Gabriel.dll
+C:\Users\UPQROO\source\repos\Tienda-Ucan Martin Andry Gabriel\Tienda-Ucan Martin Andry Gabriel\bin\Debug\net5.0\Tienda-Ucan Martin Andry Gabriel.pdb
+C:\Users\UPQROO\source\repos\Tienda-Ucan Martin Andry Gabriel\Tienda-Ucan Martin Andry Gabriel\obj\Debug\net5.0\Tienda-Ucan Martin Andry Gabriel.csproj.AssemblyReference.cache
+C:\Users\UPQROO\source\repos\Tienda-Ucan Martin Andry Gabriel\Tienda-Ucan Martin Andry Gabriel\obj\Debug\net5.0\Tienda-Ucan Martin Andry Gabriel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UPQROO\source\repos\Tienda-Ucan Martin Andry Gabriel\Tienda-Ucan Martin Andry Gabriel\obj\Debug\net5.0\Tienda-Ucan Martin Andry Gabriel.AssemblyInfoInputs.cache
+C:\Users\UPQROO\source\repos\Tienda-Ucan Martin Andry Gabriel\Tienda-Ucan Martin Andry Gabriel\obj\Debug\net5.0\Tienda-Ucan Martin Andry Gabriel.AssemblyInfo.cs
+C:\Users\UPQROO\source\repos\Tienda-Ucan Martin Andry Gabriel\Tienda-Ucan Martin Andry Gabriel\obj\Debug\net5.0\Tienda-Ucan Martin Andry Gabriel.csproj.CoreCompileInputs.cache
+C:\Users\UPQROO\source\repos\Tienda-Ucan Martin Andry Gabriel\Tienda-Ucan Martin Andry Gabriel\obj\Debug\net5.0\Tienda-Ucan Martin Andry Gabriel.dll
+C:\Users\UPQROO\source\repos\Tienda-Ucan Martin Andry Gabriel\Tienda-Ucan Martin Andry Gabriel\obj\Debug\net5.0\refint\Tienda-Ucan Martin Andry Gabriel.dll
+C:\Users\UPQROO\source\repos\Tienda-Ucan Martin Andry Gabriel\Tienda-Ucan Martin Andry Gabriel\obj\Debug\net5.0\Tienda-Ucan Martin Andry Gabriel.pdb
+C:\Users\UPQROO\source\repos\Tienda-Ucan Martin Andry Gabriel\Tienda-Ucan Martin Andry Gabriel\obj\Debug\net5.0\Tienda-Ucan Martin Andry Gabriel.genruntimeconfig.cache
+C:\Users\UPQROO\source\repos\Tienda-Ucan Martin Andry Gabriel\Tienda-Ucan Martin Andry Gabriel\obj\Debug\net5.0\ref\Tienda-Ucan Martin Andry Gabriel.dll
